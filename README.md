@@ -1,5 +1,8 @@
 # CSE564_Visualization_Lab2
 
+Goal: practice the basic visualization tools used in visual analytics
+  - client-server system: python for processing (server), D3 for VIS (client)
+
 Task 1: basic dimension reduction and data visualization with PCA
   - use PCA to compute the Eigenvectors of the data and visualize the Eigenvalues as a scree plot
   - add an interaction element into the scree plot that allows the user to mark and select the intrinsic dimensionality index (di)
